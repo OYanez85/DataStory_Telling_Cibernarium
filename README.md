@@ -28,3 +28,12 @@ Mural: https://www.mural.co/?utm_medium=paid-search&utm_source=bing&utm_campaign
 Qlik: https://www.qlik.com/us/products/qlik-sense
 
 Looker: https://cloud.google.com/looker/?hl=en
+
+Mentimeter: https://www.mentimeter.com/features/quiz-presentations
+
+Jamboard: https://edu.google.com/intl/ALL_us/jamboard/
+
+Kahoot!: https://kahoot.it/
+
+Slido: https://www.slido.com/?experience_id=240223-z
+
