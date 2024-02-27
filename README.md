@@ -32,6 +32,7 @@ Looker: https://cloud.google.com/looker/?hl=en
 Mentimeter: https://www.mentimeter.com/features/quiz-presentations
 
 Jamboard: https://edu.google.com/intl/ALL_us/jamboard/
+Jamboard: exemple: https://jamboard.google.com/d/1PzXMZeLzz5HnSs3Hd4XLcHSyoIjBnrysGqumtz_86a0/viewer?pli=1&f=0
 
 Kahoot!: https://kahoot.it/
 
